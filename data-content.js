@@ -2,7 +2,7 @@
 	"Releaseinformationen";
 
 var description = 
-	"Neues und wissenswertes aus den aktuellen iVAS Releasen";
+	"Neues und wissenswertes aus den aktuellen Releasen";
 
 var maintext = 
 	"<h3>Willkommen in den Releaseinformationen</h3> \
