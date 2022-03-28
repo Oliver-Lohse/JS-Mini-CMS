@@ -22,3 +22,9 @@ Der Renderer ist das zentrale Element in diesem kleinen JS CMS. Die Datei `rende
 
 ## CSS
 In der aktuellen Version wurde das Bootstrap via CDN implementiert und kann natürlich leicht gegen eigene CSS-Frameworks ausgetauscht werden.
+
+## Licenz und Sperrvermerk
+Diese kleine Programmbibliothek darf nicht für kommerzielle oder private Zwecke genutzt werden!
+Not for commercial or private use!
+
+Kontakt: Kontakt@Oliver-Lohse.de
