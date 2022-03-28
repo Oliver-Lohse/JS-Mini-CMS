@@ -5,7 +5,7 @@ JavaScript Struktur CMS ist ein relativ logikloses CMS auf Basis von JavaScript.
 Die Datei `data-content.js` liegt in jedem Ordner und Unterordner und nimmt den eigentlichen Content des Beitrags auf. Es handelt sich um den Content um eine fest vorgegebene Array-Variable. Die Variablen `title`, `description` und `maintext` dürfen nicht verändert werden.
 
 ## data-sidebar.js
-Die Datei `data-sidebar.js` bildet das spezifische Seitenmenü des Ordners bzw. des Unterordners ab. In dieser Array-Variablen werden die weiterführenden Menüs und Links abgelegt.
+Die Datei `data-sidebar.js` bildet das spezifische Seitenmenü des Ordners bzw. des Unterordners ab. In dieser Array-Variablen werden die weiterführenden Menüs und Links abgelegt. Die Variable `sidebar` ist fest vergeben und darf nicht verändert werden.
 
 ## data-footer.js
 Die spezifische Footer-Datei `data-footer.js` nimmt für jeden Ordner und Unterordner Footer-Informationen auf. In den meisten Fällen ist es jedoch sinnvoller einen Footer an oberster Ebene zu definieren und immer genau diesen in der `index.html` zu includieren.
