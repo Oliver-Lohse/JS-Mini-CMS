@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'roboto';
+  src: url('roboto-light.ttf');
+}
+
+/* wird für die einzelne Reiterlasche verwendet */
+.active {
+    box-shadow: 0px -20px 20px #eeeeee;*/
+}
+
+.display-6 {
+	font-size: 1.4em;
+}
+
+/* Damit die Mehrzeiligen Links nicht so einen großen Zeilenabstand haben */
+.small {
+  line-height: 1.5em;
+}
+
+.btn-outline-secondary a:hover {
+  color: #FFFFFF;
+}
+
+.btn-primary {
+  background-color: SlateGray;
+  border-color:     SlateGray;
+}
+
+.row {
+  _margin-top:       30px;
+  _margin-bottom:    30px;
+}
+
+body {
+  color:       #555555;
+  font-family: roboto, sans-serif;
+  font-size:   1.1em;
+  line-height: 1.6em;
+}
+
+.card {
+	border: 0px;
+}
+
+.card-deck .card {
+    border:           0px;
+}
+
+.card-footer {
+  border-top:       1px solid #eeeeee;
+}
+
+code {
+  font-size: 1.1em;
+}
+
+pre {
+  font-size:        0.9em !important;
+  background-color: #333333;
+  color:            #ffffee;
+  padding:          15px;
+  border-radius:    4px;
+  box-shadow:       0px 0px 15px #dddddd;
+  line-height:      1.3em;
+}
+
+a {
+  _color: #B43D53 !important;
+}
+
+a:hover { 
+  text-decoration:  none;
+  _color: 			Crimson;
+}
