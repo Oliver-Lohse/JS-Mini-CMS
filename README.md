@@ -9,3 +9,6 @@ Bildet das spezifische Seitenmenü des Ordners bzw. des Unterordners ab
 
 ## data-footer.js
 Der spezifische Footer, sofern er nicht aus einem übergeordneten Verzeichnis geladen wird.
+
+### Tipp
+>Tipp: Da dieses kleine CMS simple JS Arrays nutzt, sollte man sich den Backslash zu nutze machen, um Umbrüche in den Zeilen zu ermöglichen.
