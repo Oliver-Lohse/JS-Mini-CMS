@@ -12,7 +12,7 @@ Die Datei `data-sidebar.js` bildet das spezifische Seitenmenü des Ordners bzw. 
 ## data-footer.js
 Die spezifische Footer-Datei `data-footer.js` nimmt für jeden Ordner und Unterordner Footer-Informationen auf. In den meisten Fällen ist es jedoch sinnvoller einen Footer an oberster Ebene zu definieren und immer genau diesen in der `index.html` zu includieren. Die Variable `footer` ist fest vom System vergeben und darf nicht geändert werden.
 
->Tipp: Da dieses kleine CMS simple JS Arrays nutzt, sollte man sich den Backslash zu nutze machen, um Umbrüche in den Zeilen zu ermöglichen.
+>Tipp: Zur besseren Übersicht in den Data-Files ist es möglich, mit Hilfe des Backslash "\" Umbrüche in den aktuellen Zeilen einzufügen. Das erleichert die Arbeit und verbessert die Wartbarkeit.
 
 ## template/template-default.js
 Bei dieser JS-Datei handelt es sich um das Standardtemplate der Anwendung. In dieser Datei liegt die feste Systemvariable `template`, die nicht geändert werden darf.
