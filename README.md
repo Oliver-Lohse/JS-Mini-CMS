@@ -19,3 +19,6 @@ Bei dieser JS-Datei handelt es sich um das Standardtemplate der Anwendung. In di
 
 ## scripts/renderer.js
 Der Renderer ist das zentrale Element in diesem kleinen JS CMS. Die Datei `renderer.js` wird aus allen `index.html` (egal in welchem Ordner oder Unterordner) geladen, um das Template und die einzelnen data-Files aufzulösen.
+
+## CSS
+In der aktuellen Version wurde das Bootstrap via CDN implementiert und kann natürlich leicht gegen eigene CSS-Frameworks ausgetauscht werden.
