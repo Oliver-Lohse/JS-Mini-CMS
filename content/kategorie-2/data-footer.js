@@ -1,0 +1,16 @@
+﻿var footer = 
+	 "<div class='row'>"
+	+"	<div class='col-sm'>"
+	+"		<h1>Unternehmensfarben</h1>"
+	+"		<p>Mit Hilfe von CSS-Styles setzen Sie die Unternehmensfarben Ihres Clients. Definieren Sie unterschiedliche Styles "
+	+"      für je einen Mandanten individuell. Passen Sie dazu die Style-Section in der <code>index.html</code> an. Dadurch "
+	+"      überschreiben Sie die globale CSS-Definition des JS-CMS mit einer individuellen Vorgabe Ihres Mandanten."
+	+"	</div>"
+	+"	<div class='col-sm'>"
+	+"		<h1>Templatemenue</h1>"
+	+"		<p>Bei Bedarf sind die Definitionen fester Menues im Template durchaus sinnvoll, werden dann jedoch auf allen "
+	+"      Seiten angezeigt die dieses Template nutzen. Diese festen Menues koennen auch mit den individuellen Sidebar-Menues "
+	+"      gemischt und gleichzeitig verwendet werden. Codieren Sie daher die Sidebar-Templatevariable und legen zusätzlich "
+	+"      feste Menues im Template an.</p>"
+	+"	</div>"
+	+"</div>";
