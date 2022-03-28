@@ -8,6 +8,6 @@ Die Datei `data-content.js` liegt in jedem Ordner und Unterordner und nimmt den 
 Die Datei `data-sidebar.js` bildet das spezifische Seitenmenü des Ordners bzw. des Unterordners ab. In dieser Array-Variablen werden die weiterführenden Menüs und Links abgelegt. Die Variable `sidebar` ist fest vergeben und darf nicht verändert werden.
 
 ## data-footer.js
-Die spezifische Footer-Datei `data-footer.js` nimmt für jeden Ordner und Unterordner Footer-Informationen auf. In den meisten Fällen ist es jedoch sinnvoller einen Footer an oberster Ebene zu definieren und immer genau diesen in der `index.html` zu includieren.
+Die spezifische Footer-Datei `data-footer.js` nimmt für jeden Ordner und Unterordner Footer-Informationen auf. In den meisten Fällen ist es jedoch sinnvoller einen Footer an oberster Ebene zu definieren und immer genau diesen in der `index.html` zu includieren. Die Variable `footer` ist fest vom System vergeben und darf nicht geändert werden.
 
 >Tipp: Da dieses kleine CMS simple JS Arrays nutzt, sollte man sich den Backslash zu nutze machen, um Umbrüche in den Zeilen zu ermöglichen.
