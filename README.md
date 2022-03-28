@@ -14,3 +14,6 @@ Die spezifische Footer-Datei `data-footer.js` nimmt für jeden Ordner und Untero
 
 ## template/template-default.js
 Bei dieser JS-Datei handelt es sich um das Standardtemplate der Anwendung. In dieser Datei liegt die feste Systemvariable `template`, die nicht geändert werden darf.
+
+## scripts/renderer.js
+Der Renderer ist das zentrale Element in diesem kleinen JS CMS. Die Datei `renderer.js` wird aus allen `index.html` (egal in welchem Ordner oder Unterordner) geladen, um das Template und die einzelnen data-Files aufzulösen.
