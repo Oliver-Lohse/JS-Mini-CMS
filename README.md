@@ -28,4 +28,5 @@ Diese kleine Programmbibliothek darf nicht für kommerzielle oder private Zwecke
 Not for commercial or private use!
 
 Kontakt: Kontakt@Oliver-Lohse.de
+
 [CMSWorkbench.de](https://www.cmsworkbench.de)
