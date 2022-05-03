@@ -27,6 +27,5 @@ In der aktuellen Version wurde das Bootstrap via CDN implementiert und kann nat√
 Diese kleine Programmbibliothek darf nicht f√ºr kommerzielle oder private Zwecke genutzt werden!
 Not for commercial or private use!
 
-Kontakt: Kontakt@Oliver-Lohse.de
-
-[CMSWorkbench.de](https://www.cmsworkbench.de)
+- Kontakt: Kontakt@Oliver-Lohse.de
+- Webseite: [CMSWorkbench.de](https://www.cmsworkbench.de)
